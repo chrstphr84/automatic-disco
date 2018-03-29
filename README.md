@@ -1,0 +1,3 @@
+# automatic-disco
+
+Max Projects
